@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8></meta>"
-    <title>CatPhotoApp</title>
+    <title>CatPhotoApp
 </head>
   <body>
     <h1>CatPhotoApp</h1>
